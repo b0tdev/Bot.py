@@ -14,7 +14,7 @@ Chat Bot Made Using discord.py
 
 [Repl.It](https://repl.it)
 
-###Other Infos and Upcoming Updates
+### Other Infos and Upcoming Updates
 
 **Will update Shortly**
 
