@@ -45,4 +45,4 @@ async def ban(ctx, member:discord.User = None, reason = None):
   
    
 
-bot.run("token")
+bot.run("process.env.token")
