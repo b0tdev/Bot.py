@@ -25,7 +25,9 @@ Chat Bot Made Using discord.py
 ### Copyright 
 
          b0tdev©
-**This Software Is Only for educational Purpose. Sharing and Distributing Can. But Claiming Copyright as You is not eligible.
+**This Software Is Only for educational Purpose. Sharing and Distributing Can. But Claiming Copyright as You is not eligible. Any Useless Use of bot will take seviour Action on them.**
+     Copyright 2019-20
+           b0tdev©
 
 
 
