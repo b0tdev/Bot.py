@@ -1,5 +1,5 @@
 # Bot.py
-**An API Discord Bot Made Using Python**
+**An Discord Bot Made Using Python**
 
 ### Introduction
 
@@ -14,8 +14,19 @@ Chat Bot Made Using discord.py
 
 [Repl.It](https://repl.it)
 
-### Other Infos and Upcoming Updates
+### Invite Info
 
-**Will update Shortly**
+**To Invite This Bot Go To Below Link**
+
+[Bot Link](https://discordapp.com/api/oauth2/authorize?client_id=592542846486052865&permissions=8&scope=bot)
+
+**Don't forget to Star the Repo**
+
+### Copyright 
+
+         b0tdev©
+**This Software Is Only for educational Purpose. Sharing and Distributing Can. But Claiming Copyright as You is not eligible.
+
+
 
 
