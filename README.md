@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://i.imgur.com/gnfTQzu.png" align="center" alt="Bot.py">
+<br>
+<strong><i>A Discord Bot Made Using Python</i></strong>
 
 # Bot.py
 **An Discord Bot Made Using Python**
