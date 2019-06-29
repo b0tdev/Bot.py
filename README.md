@@ -1,3 +1,12 @@
+![Logo](https://imgur.com/ea2WcBp)
+
+
+
+
+
+
+
+
 # Bot.py
 **An Discord Bot Made Using Python**
 
