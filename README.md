@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/gnfTQzu.png" align="center" alt="Bot.py">
+<img src="https://imgur.com/bTTTzA8.gif" align="center" alt="Bot.py">
 <br>
 <strong><i>A Discord Bot Made Using Python</i></strong>
 
