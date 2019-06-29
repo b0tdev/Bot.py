@@ -5,7 +5,7 @@
   <br>
   <br>
 
-<div align="center"
+<div align="center">
   <img src="https://discordapp.com/api/guilds/580251376962109440/embed.png" align="center"
   <br>
     
