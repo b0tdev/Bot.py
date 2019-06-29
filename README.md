@@ -18,7 +18,7 @@ _Module(voice)_
 
 ### Bot Example
 
-import discord
+`import discord
 
 class MyClient(discord.Client):
     async def on_ready(self):
@@ -36,4 +36,4 @@ class MyClient(discord.Client):
             await message.channel.send('Hello {0.author.mention}'.format(message))
                      
 client = MyClient()
-client.run('token'
+client.run('token')'
