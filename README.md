@@ -1,12 +1,10 @@
-![https://imgur.com/ea2WcBp]
-
-
-
-
-
-
-
-
+<div align="center">
+  <img src="https://i.imgur.com/ea2WcBp.png" align="center">
+  <br>
+  <strong><i>A Discord Bot Made Using Python 3.6.4.</i></strong>
+  <br>
+  <br>
+    
 # Bot.py
 **An Discord Bot Made Using Python**
 
