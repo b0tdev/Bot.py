@@ -18,21 +18,21 @@ _Module(voice)_
 
 ### Bot Example
 
-``import discord
+.. code:: py
 
-class MyClient(discord.Client):
-    async def on_ready(self):
-        print(self.user.name)
-        print(self.user.id)
-        
+    import discord
 
-    async def on_message(self, message):
-        # we do not want the bot to reply to itself
-        if message.author.id == self.user.id:
-            return
+    class MyClient(discord.Client):
+        async def on_ready(self):
+            print('Logged on as', self.user)
 
-        if message.content.startswith('!hello'):
-            await message.channel.send('Hello {0.author.mention}'.format(message))
-                     
-client = MyClient()
-client.run(token)``
+        async def on_message(self, message):
+            # don't respond to ourselves
+            if message.author == self.user:
+                return
+
+            if message.content == 'ping':
+                await message.channel.send('pong')
+
+    client = MyClient()
+    client.run('token')
