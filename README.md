@@ -29,5 +29,7 @@ Chat Bot Made Using discord.py
 
 **Don't forget to Star the Repo**
 
-### Wiki 
+### Wiki
+
+[Wiki](https://github.com/b0tdev/Bot.py/wiki)
 
