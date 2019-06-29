@@ -4,6 +4,10 @@
   <strong><i>A Discord Bot Made Using Python 3.6.4.</i></strong>
   <br>
   <br>
+
+.. image:: https://discordapp.com/api/guilds/336642139381301249/embed.png
+   :target: https://discord.gg/nXzj3dg
+   :alt: Discord Server
     
 # Bot.py
 **An Discord Bot Made Using Python**
