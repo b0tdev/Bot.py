@@ -8,10 +8,14 @@
 # Bot.py
 **An Discord Bot Made Using Python**
 
+***
+
 ### Introduction
 
 This Bot is A Feature-Rich bot with Moderations,Welcomer, 
 Chat Bot Made Using discord.py
+
+***
 
 ### Courtesy and Links
 
@@ -21,6 +25,8 @@ Chat Bot Made Using discord.py
 
 [Repl.It](https://repl.it)
 
+***
+
 ### Invite Info
 
 **To Invite This Bot Go To Below Link**
@@ -29,7 +35,10 @@ Chat Bot Made Using discord.py
 
 **Don't forget to Star the Repo**
 
+***
+
 ### Wiki
 
 [Wiki](https://github.com/b0tdev/Bot.py/wiki)
 
+***
