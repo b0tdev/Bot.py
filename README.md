@@ -43,3 +43,18 @@ _Invite Link_
 
 <strong><i>Touch this Image to Get the Bot</i></strong>
 
+***
+
+That's All Now You Can Enjoy!
+
+## Links
+
+[LICENS](https://github.com/b0tdev/Bot.py/blob/master/LICENSE)
+
+[MY PORTFOLIO](https://github.com/b0tdev)
+
+***
+
+<div align="center'>
+<strong>DON'T FORGET TO STAR THE REPO</strong>
+</div>
