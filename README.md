@@ -27,5 +27,18 @@
   * Welcomer
   * Feature-Rich Bot
 
+### Installation
 
+**You Can Invite This Bot Via Link and Can Also Deploy To Heroku**
+
+<a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
+_Invite Link_
+
+<a href="https://discordapp.com/oauth2/authorize?client_id=594889099345920040&scope=bot&permissions=8">
+  <img src="https://i.imgur.com/mgxgMXc.png" alt="Bot">
+</a>
+<strong><i>Touch this Image to Get the Bot</i></strong>
 
