@@ -38,7 +38,8 @@
 _Invite Link_
 
 <a href="https://discordapp.com/oauth2/authorize?client_id=594889099345920040&scope=bot&permissions=8">
-  <img src="https://i.imgur.com/mgxgMXc.png" alt="Bot">
+  <img src="https://i.imgur.com/3sofII5.png" alt="Bot">
 </a>
+
 <strong><i>Touch this Image to Get the Bot</i></strong>
 
