@@ -18,7 +18,6 @@ _Module(voice)_
 
 ### Bot Example
 
-.. code:: py
 
     import discord
 
@@ -36,3 +35,31 @@ _Module(voice)_
 
     client = MyClient()
     client.run('token')
+    
+    ***
+    
+    ### Functions and Specifications
+    
+    *Ping finder
+    
+    *Moderation
+    
+    *Welcomer
+    
+    *Fun
+    
+    ***
+    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
