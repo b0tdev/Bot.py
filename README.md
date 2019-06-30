@@ -1,7 +1,6 @@
 <div align ="center">
   <img src="https://i.imgur.com/eq7eChD.png" align="center">
 <br>
-</div>
 
 <a href="https://github.com/b0tdev/Bot.py/">	
     <img src="https://api.modmail.tk/badges/instances.svg" alt="Bot instances">	
@@ -14,7 +13,7 @@
 <a href="https://discord.gg/uu6W23B">
     <img src="https://img.shields.io/discord/515071617815019520.svg?style=for-the-badge&colorB=7289DA" alt="Support">
   </a>
-
+</div>
 
 # Bot.py
 
