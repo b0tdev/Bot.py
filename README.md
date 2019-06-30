@@ -55,6 +55,6 @@ That's All Now You Can Enjoy!
 
 ***
 
-<div align="center'>
+<div align="center">
 <strong>DON'T FORGET TO STAR THE REPO</strong>
 </div>
